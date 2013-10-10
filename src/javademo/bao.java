@@ -25,5 +25,5 @@ public class bao {
 	}
 	public void setBookPrice(double bookPrice) {
 		this.bookPrice = bookPrice;
-	}////////////////
+	}
 }
